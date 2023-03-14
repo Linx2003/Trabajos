@@ -1,0 +1,8 @@
+<resources>
+    <String name="nom">Nombre</String>
+    <String name="cant">Cantidad</String>
+    <String name="c">Crear</String>
+    <String name="i">Insertar</String>
+    <String name="l">Leer</String>
+    <String name="b">Borrar</String>
+</resources>
